@@ -58,7 +58,25 @@ FoodCourt/
    ```bash
    git clone https://github.com/yourusername/Open the project in an IDE like IntelliJ IDEA or Eclipse with JavaFX support.
 3.Open the project in an IDE like IntelliJ IDEA or Eclipse with JavaFX support.
+
 4.Run the Main.java file.
 Note: If using JavaFX separately, make sure to configure the JavaFX SDK path in your IDE.
+
+# Contributors
+
+This project has been made possible with the contributions of the following people:
+
+## Contributors
+
+- **Mir M Shishir** – Project Leader
+- **Shahjalal Sojib**
+- **Sahadat Hossain**
+- **Partha Sarkar**
+- **Sabbir Ahmmed**
+
+## How to Contribute
+
+Contributions are always welcome! If you'd like to contribute, please fork this repository, make your changes, and submit a pull request.
+
 
 
